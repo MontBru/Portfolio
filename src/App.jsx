@@ -6,6 +6,7 @@ import libarterImg from "./assets/WelcomeToLibarter.png"
 import ecowareImg from "./assets/Ecoware.png"
 import dishwasherImg from "./assets/dishwasher.png"
 
+
 function App() {
   return (
     <main className=" bg-customColors-primary w-screen h-screen overflow-y-scroll overflow-x-hidden p-6 pt-10 flex justify-center">
